@@ -1,6 +1,6 @@
 # Flutter - Google SignIn With Firebase
 
-how to integrate Signin with Google into your Firebase and Flutter app.
+How to integrate Signin with Google into your Firebase and Flutter app.
 
 
 ### ✌&ensp;Preview
